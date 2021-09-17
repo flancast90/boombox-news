@@ -4,7 +4,7 @@
 
 ### Usage
 Self Hosting:
-1. Go to: https://discord.com/oauth2/authorize?client_id=888215419951927326&permissions=515396566016&scope=bot
+1. Go to discord.com/developers, and create a new bot. Go to the URL given to you with the permissions integer.
 2. select the server you would like to add boombox news to in the dropdown, and then click the "Next" button.
 
 3. ``cd path/to/project``
